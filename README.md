@@ -1,2 +1,4 @@
-# ISO-27001
+Hello World
+
+A minimal web application to test your Giant Swarm setup.
 
